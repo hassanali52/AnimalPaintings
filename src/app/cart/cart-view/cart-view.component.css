@@ -1,0 +1,13 @@
+.button-container button {
+    margin-right: 16px;
+  }
+  
+  .button-container button:last-child {
+    margin-right: 0;
+  }
+
+  .price
+  {
+    font-weight: 800;
+  }
+  
